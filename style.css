@@ -8,13 +8,22 @@
     
 }
 
+.pic {
+    padding: 30px;
+    border-radius: 35px;
+    background-color: #e63946;
+    overflow: auto;
+
+}
+
 .pic img {
     border-radius: 40%;
 }
 
 .about-me {
-    margin-left: 10px;        
+    float: right;    
 }
+
 
 h1 {
     font-family: "Helvetica", ;
