@@ -1,0 +1,32 @@
+h1 {
+    font-family: "Helvetica", ;
+}
+
+body {
+    background-color: #2a9d8f;
+}
+
+.about-me {
+    font-family: monospace;
+}
+
+.destaque {
+    background: #e76f51;
+    color: white;
+}
+
+p {
+    line-height: 22px;
+}
+
+.hab1 {
+    font-size: 30px;                
+}
+
+.hab2 {
+    font-size: 25px;                
+}
+
+.hab3 {
+    font-size: 20px;                
+}
