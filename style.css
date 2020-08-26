@@ -9,11 +9,10 @@
 }
 
 .pic {
-    padding: 30px;
+    padding: 20px;
     border-radius: 35px;
-    background-color: #e63946;
-    overflow: auto;
-
+    background-color: #f1faee;
+    /* overflow: auto; */
 }
 
 .pic img {
@@ -21,7 +20,8 @@
 }
 
 .about-me {
-    float: right;    
+    /* float: right; */
+    margin-left: 10px;
 }
 
 
